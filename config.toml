@@ -1,0 +1,32 @@
+baseURL = "http://jorisvanbreugel.com/"
+languageCode = "en-us"
+title = "Joris van Breugel"
+
+[params]
+    description = "this is a test description" 
+    footer = "Last updated: June 2021"
+    mainSection = "posts" # your main section
+    showAllPostsOnHomePage = true # default
+    postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+    tagsOverview = true # show tags overview by default.
+    
+    # Post page settings
+    show_updated = true # default
+    showReadTime = false # default
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 3
+

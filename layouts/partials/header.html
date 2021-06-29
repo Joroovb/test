@@ -1,0 +1,15 @@
+<div class="navbar container">
+  <a id="author-name" class="alignable pull-left" href="{{ .Site.BaseURL }}"
+    >{{ .Site.Title }}</a
+  >
+  <ul id="navlist" class="alignable pull-right navbar-ul">
+    {{ range $i, $e := .Site.Menus.main }}
+    <li class="alignable pull-left nav-list">
+      {{ if $i }}/ {{ end }}
+      <a href="{{ $e.URL }}">{{ $e.Name }}</a>
+    </li>
+    {{end}}
+  </ul>
+</div>
+<div style="clear: both"></div>
+<hr />
