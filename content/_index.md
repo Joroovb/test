@@ -12,6 +12,13 @@ Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube
 
 ## Occupation
 `2021 - Now`
+**Docent HBO ICT**, Hogeschool Utrecht
+- *Preparing and giving lectures*
+- *Practical and theoretical training*
+- *Guiding student progression in a team*
+- *Blended learning*
+
+`2021 - Now`
 **Junior IT Docent**, *Code Café*, Utrecht
 - *Personal Coaching*
 - *Preparing and giving lectures and practical training*

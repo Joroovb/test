@@ -4,7 +4,7 @@ title = "Joris van Breugel"
 
 [params]
     description = "this is a test description" 
-    footer = "Last updated: June 2021"
+    footer = "Last updated: Nov 2021"
     mainSection = "posts" # your main section
     showAllPostsOnHomePage = true # default
     postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
